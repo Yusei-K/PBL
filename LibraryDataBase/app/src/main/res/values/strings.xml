@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">図書館データサービス</string>
+    <string name="book_title">タイトル:</string>
+    <string name="book_author">著者:</string>
+    <string name="book_isbn">ISBN:</string>
+    <string name="bt_save">保存</string>
+    <string name="bt_thx_back">リストに戻る</string>
+</resources>
