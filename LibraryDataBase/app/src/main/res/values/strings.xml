@@ -6,4 +6,6 @@
     <string name="book_isbn">ISBN:</string>
     <string name="bt_save">保存</string>
     <string name="bt_thx_back">リストに戻る</string>
+    <string name="action_settings">設定</string>
+
 </resources>
